@@ -1,0 +1,21 @@
+lista de tarefas do ProjetoA
+-Filmes("Netflix")
+
+-BD com CRUD com validação do banco
+id
+url imagem 
+titulo
+genero
+faixa etaria 
+duração
+pontuação
+descrição
+ano
+ 
+-A aplicação deve ter perfil de Admin e User
+admin - acesso total
+user - apenas listagem dos filmes
+com atuorização e autentificação
+(springSecurity)
+-Arquitetura MVC com camada de Service
+Em java springb0oot + bootstrap(utilização de IA aprovada!)
